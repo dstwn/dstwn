@@ -2,8 +2,8 @@
 
 I'm a full-stack web developer that specializes in the Laravel framework.
 
-![dstwn's github stats](https://github-readme-stats.vercel.app/api?username=rawilk&show_icons=true&count_private=true&line_height=40)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rawilk&hide=html)
+![dstwn's github stats](https://github-readme-stats.vercel.app/api?username=dstwn&show_icons=true&count_private=true&line_height=40)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dstwn&hide=html)
 
 ## Favorite Tech
 
