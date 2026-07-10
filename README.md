@@ -1,5 +1,3 @@
-# Dwi Setiawan
-
 <div align="center">
 
 ```text
