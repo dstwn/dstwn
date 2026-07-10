@@ -18,7 +18,7 @@ _AI-Driven Software Engineer_
 ```text
 User:         dstwn
 Name:         Dwi Setiawan
-Role:         AI-Driven Laravel Engineer
+Role:         AI-Driven Software Engineer
 Company:      Julie & Grace GmbH
 Location:     Bali, Indonesia
 
